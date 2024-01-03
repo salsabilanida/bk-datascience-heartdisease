@@ -1,4 +1,4 @@
 
 streamlit
-joblib
+pickle-mixin==1.0.2
 pandas
