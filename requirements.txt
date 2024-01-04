@@ -1,4 +1,5 @@
 
 streamlit
-pickle-mixin==1.0.2
+joblib
+scikit-learn==1.2.3
 pandas
